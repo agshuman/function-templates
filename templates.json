@@ -33,12 +33,7 @@
     {
       "id": "forward-message",
       "name": "Forward Message",
-      "description": "Forwards incoming messages to another number"
-    },
-    {
-      "id": "forward-message-multiple",
-      "name": "Forward Message to Multiple Numbers",
-      "description": "Forwards incoming messages to a set of numbers"
+      "description": "Forwards incoming messages to another number or set of numbers"
     },
     {
       "id": "forward-message-sendgrid",
@@ -329,6 +324,41 @@
       "id": "experimental-flex-dialpad",
       "name": "Native Flex Dialpad Add-on",
       "description": "Adds agent to agent outbound call and external number transfer to Twilio Flex native dialpad "
+    },
+    {
+      "id": "list-numbers",
+      "name": "List Numbers",
+      "description": "Lists all phone numbers in your account"
+    },
+    {
+      "id": "transfers",
+      "name": "Transfers",
+      "description": "Transfers a call to another number"
+    },
+    {
+      "id": "verify-prefill",
+      "name": "Twilio Verify Pre-Fill Sample App",
+      "description": "Showcases the new Twilio Lookup Pre-Fill API"
+    },
+    {
+      "id": "reminder-message",
+      "name": "Send scheduled reminder messages",
+      "description": "Schedule a reminder message to be sent a specified time after the initial message"
+    },
+    {
+      "id": "passkeys-backend",
+      "name": "Backend for passkeys app",
+      "description": "Connect applications with the passkeys service"
+    },
+    {
+      "id": "block-spam-calls",
+      "name": "Block Spam Calls",
+      "description": "Uses Twilio Add-ons to block unwanted calls by checking the spam ratings of incoming phone numbers."
+    },
+    {
+      "id": "ai-assistants-samples",
+      "name": "AI Assistants Samples",
+      "description": "Functions to connect AI Assistants to various Channels and Tools"
     }
   ]
 }
